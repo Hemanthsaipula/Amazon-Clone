@@ -1,5 +1,7 @@
 # Amazon-Clone
 My First Project towards web devolopment
-Replicated Amazon Home Page using html,css
+<br>
+Replicated Amazon Home Page using html,css.
+<br>
 Author-Pula Hemanth Sai
 
